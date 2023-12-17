@@ -166,7 +166,7 @@ iface = gr.Interface(
     fn=gradio_interface,
     inputs=[
         Textbox(label="Directory Path"),
-        Textbox(default="describe this image in detail, as if you are an art critic in less than 35 words", label="Captioning Prompt"),
+        Textbox(default="describe this image in detail", label="Captioning Prompt"),
         Radio(["skip", "replace", "add"], label="Existing Caption Action", default="skip")
     ],
     outputs=[
