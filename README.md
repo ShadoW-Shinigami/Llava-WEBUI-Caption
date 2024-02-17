@@ -8,7 +8,6 @@
 - **Caption Management**: Choose to skip, replace, or append to existing captions, giving you full control over your captioning process.
 
 ## ⚙️ Installation
---1. Clone the [LLAVA repository](https://github.com/haotian-liu/LLaVA).--
 1. Get the 1.1.3 release from the [LLAVA repository](https://github.com/haotian-liu/LLaVA/releases/tag/v1.1.3)
 2. Follow the instructions provided in the LLaVA repo to set up.
 3. Add the Llava-WEBUI-Caption script to the downloaded folder and run it to start captioning your images.
